@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/South-Paragliding/static/css/main.98a58c46.chunk.css",
+    "main.js": "/South-Paragliding/static/js/main.61d000df.chunk.js",
+    "main.js.map": "/South-Paragliding/static/js/main.61d000df.chunk.js.map",
+    "runtime-main.js": "/South-Paragliding/static/js/runtime-main.4353ad29.js",
+    "runtime-main.js.map": "/South-Paragliding/static/js/runtime-main.4353ad29.js.map",
+    "static/css/2.c6d63901.chunk.css": "/South-Paragliding/static/css/2.c6d63901.chunk.css",
+    "static/js/2.7f166da8.chunk.js": "/South-Paragliding/static/js/2.7f166da8.chunk.js",
+    "static/js/2.7f166da8.chunk.js.map": "/South-Paragliding/static/js/2.7f166da8.chunk.js.map",
+    "index.html": "/South-Paragliding/index.html",
+    "static/css/2.c6d63901.chunk.css.map": "/South-Paragliding/static/css/2.c6d63901.chunk.css.map",
+    "static/css/main.98a58c46.chunk.css.map": "/South-Paragliding/static/css/main.98a58c46.chunk.css.map",
+    "static/js/2.7f166da8.chunk.js.LICENSE.txt": "/South-Paragliding/static/js/2.7f166da8.chunk.js.LICENSE.txt",
+    "static/media/FollowUs.0bf4effe.png": "/South-Paragliding/static/media/FollowUs.0bf4effe.png",
+    "static/media/LOGO@2x.aecbc0ee.png": "/South-Paragliding/static/media/LOGO@2x.aecbc0ee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4353ad29.js",
+    "static/css/2.c6d63901.chunk.css",
+    "static/js/2.7f166da8.chunk.js",
+    "static/css/main.98a58c46.chunk.css",
+    "static/js/main.61d000df.chunk.js"
+  ]
+}

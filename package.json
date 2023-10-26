@@ -1,6 +1,7 @@
 {
   "name": "south-paragliding",
   "version": "0.1.0",
+  "homepage": "https://DanaAnad.github.io/South-Paragliding",
   "private": true,
   "main": "nodemon start.js",
   "dependencies": {

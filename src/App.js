@@ -28,7 +28,7 @@ export default function App () {
             <nav className="routes">
               <ul>
                 <li key = 'SP-homepage' >
-                    <Link to='/'>Southparagliding</Link>
+                    <Link to='/South-Paragliding'>Southparagliding</Link>
                   </li>
                   <li key = 'admin' >
                     <Link to='/intandem'>Admin-Southparagliding</Link>

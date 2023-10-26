@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/South-Paragliding/static/css/main.98a58c46.chunk.css",
-    "main.js": "/South-Paragliding/static/js/main.61d000df.chunk.js",
-    "main.js.map": "/South-Paragliding/static/js/main.61d000df.chunk.js.map",
+    "main.js": "/South-Paragliding/static/js/main.3594933e.chunk.js",
+    "main.js.map": "/South-Paragliding/static/js/main.3594933e.chunk.js.map",
     "runtime-main.js": "/South-Paragliding/static/js/runtime-main.4353ad29.js",
     "runtime-main.js.map": "/South-Paragliding/static/js/runtime-main.4353ad29.js.map",
     "static/css/2.c6d63901.chunk.css": "/South-Paragliding/static/css/2.c6d63901.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.c6d63901.chunk.css",
     "static/js/2.7f166da8.chunk.js",
     "static/css/main.98a58c46.chunk.css",
-    "static/js/main.61d000df.chunk.js"
+    "static/js/main.3594933e.chunk.js"
   ]
 }

@@ -23,12 +23,12 @@ export default function App () {
         </Helmet>
             <link rel="preload" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400&display=swap" as="style"/>
             <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400&display=swap"/>
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
         <div className = "body" >
             <nav className="routes">
               <ul>
                 <li key = 'SP-homepage' >
-                    <Link to='/South-Paragliding'>Southparagliding</Link>
+                    <Link to='/'>Southparagliding</Link>
                   </li>
                   <li key = 'admin' >
                     <Link to='/intandem'>Admin-Southparagliding</Link>

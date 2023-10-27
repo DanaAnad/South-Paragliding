@@ -1,8 +1,8 @@
 {
   "name": "south-paragliding",
   "version": "0.1.0",
-  "homepage": "https://DanaAnad.github.io/South-Paragliding",
   "private": true,
+  "homepage": "https://DanaAnad.github.io/South-Paragliding",
   "main": "nodemon start.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
@@ -13,7 +13,6 @@
     "browser-image-compression": "^1.0.15",
     "cors": "^2.8.5",
     "express": "^4.18.1",
-    "gh-pages": "^6.0.0",
     "react": "^17.0.1",
     "react-bootstrap": "^1.5.2",
     "react-burger-menu": "^3.0.6",
